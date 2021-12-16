@@ -21,3 +21,12 @@ h1 {
  padding-top: 10px 
 }
 
+.rows {
+  display: flex;
+}
+
+.row-1 {
+  display: flex;
+  justify-content: center;
+  
+}
