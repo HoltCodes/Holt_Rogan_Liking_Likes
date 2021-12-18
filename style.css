@@ -70,17 +70,23 @@ h4 {
   font-size: 1.2rem;
  }
 
- .btn {
+ .btn-like {
    background: yellow;
    font-size: 1.5rem;
-   box-shadow: 2px 2px 2px black;
+   box-shadow: 2px 2px 2px 
+   black;
+   margin-bottom: 30px;
+   margin-left: 20px;
  }
 
+span#post-1,
+span#post-2,
+span#post-3 {
+  margin-top: 10px;
+}
+
 p.post {
-  margin-top: 25px;
-  margin-left: 25px;
-  margin-bottom: 25px;
-  margin-right: 25px;
   font-size: 1.2rem;
+  margin: 20px;
 }
 
